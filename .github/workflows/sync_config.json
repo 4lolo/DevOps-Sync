@@ -13,12 +13,12 @@
         },
         "bypassRules": true,
         "autoCreate": true,
-        "assignedTo": "krzysztofwojcicki@gmail.com",
+        "assignedTo": "kwojcicki@apptio.com",
         "areaPath": "GitHub Sync\\Area 1",
         "iterationPath": "GitHub Sync\\Iteration 1",
         "mappings": {
             "handles": {
-                "4lolo": "krzysztofwojcicki@gmail.com"
+                "4lolo": "kwojcicki@apptio.com"
             }
         }
     }
