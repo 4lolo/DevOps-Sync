@@ -1,0 +1,25 @@
+{
+    "log_level": "debug",
+    "ado": {
+        "organization": "kwojcicki0900",
+        "project": "GitHub Sync",
+        "wit": "User Story",
+        "states": {
+            "new": "New",
+            "closed": "Closed",
+            "reopened": "New",
+            "deleted": "Removed",
+            "active": "Active"
+        },
+        "bypassRules": true,
+        "autoCreate": true,
+        "assignedTo": "krzysztofwojcicki@gmail.com",
+        "areaPath": "GitHub Sync\\Area 1",
+        "iterationPath": "GitHub Sync\\Iteration 1",
+        "mappings": {
+            "handles": {
+                "4lolo": "krzysztofwojcicki@gmail.com"
+            }
+        }
+    }
+}
